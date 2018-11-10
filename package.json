@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "angular6-word-cloud-evolution@0.0.0"
+    ]
+  ],
+  "_from": "angular6-word-cloud-evolution",
+  "_id": "angular6-word-cloud-evolution@0.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ZL5jQ3A8z/mAQIH7HGRViilxPT7JoBiD8GgCX1j6ISfUtwU7djGMUZXm5ADv6BvqqpFX1kpg3QBFqO71TH7fzg==",
+  "_location": "/angular6-word-cloud-evolution",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular6-word-cloud-evolution",
+    "name": "angular6-word-cloud-evolution",
+    "escapedName": "angular6-word-cloud-evolution",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular6-word-cloud-evolution/-/angular6-word-cloud-evolution-0.0.0.tgz",
+  "_shasum": "63d311f5d9d9b74a6928d5eeaf6e714b21e70397",
+  "_spec": "angular6-word-cloud-evolution",
+  "_where": "C:\\Users\\cconnet\\Documents\\Projets Perso\\wordCloudRetro2",
+  "author": {
+    "name": "alhazmy13 & Cypmars",
+    "email": "cypconnet@wanadoo.fr"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "jsnext:main": "angular6-word-cloud-evolution.js",
+  "keywords": [
+    "angular",
+    "word-cloud",
+    "drag",
+    "zoom"
+  ],
+  "license": "MIT",
+  "main": "angular6-word-cloud-evolution.umd.js",
+  "module": "angular6-word-cloud-evolution.js",
+  "name": "angular6-word-cloud-evolution",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "typings": "angular6-word-cloud-evolution.d.ts",
+  "version": "0.0.0"
+}
